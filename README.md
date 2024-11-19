@@ -3,7 +3,7 @@
 
 A parser combinator written in TypeScript.
 
-![fern-parser](docs/images/fern-parser.png)
+<img align="right" src="https://github.com/mindboard/fern-parser/blob/main/docs/images/fern-parser.png?raw=true" height="150px" alt="The fern-parser logo"/>
 
 
 ## Usage
