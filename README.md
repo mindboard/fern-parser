@@ -1,9 +1,10 @@
 
 # fern-parser
 
+<img align="right" src="https://github.com/mindboard/fern-parser/blob/main/docs/images/fern-parser.png?raw=true" height="64px" alt="The fern-parser logo"/>
+
 A parser combinator written in TypeScript.
 
-<img align="right" src="https://github.com/mindboard/fern-parser/blob/main/docs/images/fern-parser.png?raw=true" height="150px" alt="The fern-parser logo"/>
 
 
 ## Usage
