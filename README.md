@@ -23,7 +23,7 @@ see ./examples/.
 ![fern-parser](docs/images/a-sunset-example.png)
 
 
-A source text:
+Source:
 
 ```plaintext
 # 日々の雑感
@@ -51,7 +51,7 @@ A source text:
 生きることは、こうした**小さな積み重ねによって豊かになる**のだと、心が教えてくれる。
 ```
 
-A converted html:
+Result:
 
 ```html
 <h1>日々の雑感</h1>
